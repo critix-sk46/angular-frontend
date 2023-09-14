@@ -1,0 +1,30 @@
+/* mat-sidenav-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+} */
+.center-radio-group {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .radio-button-container {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin-top: 20px;
+  }
+  
+  .mat-radio-button {
+    margin: 0;
+  }
+
+  .example-button-container {
+    text-align: center; /* Center the buttons horizontally */
+    margin-top: 20px; /* Adjust the top margin to lower the buttons */
+  }
+  
+  .example-button-container button {
+    margin: 50px; /* Add margin to create equal spacing around the buttons */
+  }
